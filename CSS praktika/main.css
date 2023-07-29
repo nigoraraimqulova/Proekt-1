@@ -1,0 +1,140 @@
+body{
+    width: 2120px;
+    height: 50px;
+    border: 1px solid whitesmoke;
+    background-color: whitesmoke;
+}
+
+.rasm{
+    position: absolute;
+    top: 0px;
+    left: 1790px;
+}
+
+.a{
+    position: absolute;
+    top: 260px;
+    left: 140px;
+    text-decoration: underline;
+    display: block;
+}
+.y{
+    position: absolute;
+    left: 1163px;
+    margin-top: 15px;
+    color: dimgray;
+    width: 240px;
+    height: 300px;
+    border: 1px solid white;
+    border-radius: 15px;
+    background-color: white;
+    padding: 5px 15px;
+    display: none;
+}
+.y:hover{
+    color: black;
+}
+
+.yozuv1{
+    position: absolute;
+    top: -25px;
+    left: 1400px;
+    text-decoration: none;
+    display: block;
+}
+.yozuv3{
+    position: absolute;
+    top: -10px;
+    left: 1960px;
+    float: left;
+    text-decoration: none;
+}
+.yozuv4{
+    position: absolute;
+    top: 12px;
+    left: 1860px;
+    display: inline-block;
+}
+
+.navbar-menu:hover .y{
+    display: block;
+    z-index: 2;
+}
+.navbar-menu{
+    position: absolute;
+    top: 8px;
+    left: 600px;
+}
+.navbar-menu a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.nike{
+    width: 2120px;
+    height: 75px;
+    border: 1px solid white;
+    background-color: white;
+    position: sticky;
+    top: 50px;
+    left: -20px;
+    z-index: 1;
+}
+.nike1{
+    position: absolute;
+    top: 2px;
+    left: 700px;
+    text-align: center;
+}
+.nike2{
+    position: absolute;
+    top: 0px;
+    left: 250px;
+    text-align: center;
+}
+.nike3{
+    position: absolute;
+    top: 0px;
+    left: 385px;
+    text-align: center;
+}
+.nike4{
+    position: absolute;
+    top: 0px;
+    left: 550px;
+    text-align: center;
+}
+.nike5{
+    position: absolute;
+    top: 0px;
+    left: 700px;
+    text-align: center;
+}
+
+.jordan{
+    margin-left: 50px;
+}
+
+.logo{
+    margin-top: 25px;
+    margin-left: 50px;
+}
+
+.shop{
+    position: absolute;
+    left: 850px;
+}
+.shop a{
+    color: black;
+}
+.shop a:hover{
+    text-decoration: none;
+}
+
+.app{
+    position: absolute;
+}
+.rasm1{
+    margin-left: 50px;
+}

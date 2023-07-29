@@ -1,0 +1,230 @@
+body{
+    width: 2120px;
+    height: 50px;
+    border: 1px solid whitesmoke;
+    background-color: whitesmoke;
+}
+
+.rasm{
+    position: absolute;
+    top: 0px;
+    left: 1790px;
+}
+
+.a{
+    position: absolute;
+    top: 260px;
+    left: 140px;
+    text-decoration: underline;
+    display: block;
+}
+.y{
+    position: absolute;
+    left: 1163px;
+    margin-top: 15px;
+    color: dimgray;
+    width: 240px;
+    height: 300px;
+    border: 1px solid white;
+    border-radius: 15px;
+    background-color: white;
+    padding: 5px 15px;
+    display: none;
+}
+.y:hover{
+    color: black;
+}
+
+.yozuv1{
+    position: absolute;
+    top: -25px;
+    left: 1400px;
+    text-decoration: none;
+    display: block;
+}
+.yozuv3{
+    position: absolute;
+    top: -10px;
+    left: 1960px;
+    float: left;
+    text-decoration: none;
+}
+.yozuv4{
+    position: absolute;
+    top: 12px;
+    left: 1860px;
+    display: inline-block;
+}
+
+.navbar-menu:hover .y{
+    display: block;
+    z-index: 3;
+}
+.navbar-menu{
+    position: absolute;
+    top: 8px;
+    left: 600px;
+}
+.navbar-menu a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.nike{
+    width: 2120px;
+    height: 75px;
+    border: 1px solid white;
+    background-color: white;
+    position: sticky;
+    top: 50px;
+    left: -20px;
+    z-index: 2;
+    display: block;
+}
+.nike1{
+    position: absolute;
+    top: 2px;
+    left: 700px;
+    text-align: center;
+}
+.nike2{
+    position: absolute;
+    top: 0px;
+    left: 250px;
+    text-align: center;
+}
+.nike3{
+    position: absolute;
+    top: 0px;
+    left: 385px;
+    text-align: center;
+}
+.nike4{
+    position: absolute;
+    top: 0px;
+    left: 550px;
+    text-align: center;
+}
+.nike5{
+    position: absolute;
+    top: 0px;
+    left: 700px;
+    text-align: center;
+}
+
+.jordan{
+    margin-left: 50px;
+}
+
+.logo{
+    margin-top: 25px;
+    margin-left: 50px;
+}
+
+.shop{
+    position: absolute;
+    left: 850px;
+    padding: 5px 20px;
+}
+.shop a{
+    color: black;
+}
+.shop a:hover{
+    text-decoration: none;
+}
+
+.app{
+    position: absolute;
+    top: 190px;
+}
+.rasm1{
+    margin-left: 50px;
+}
+.rasm2{
+    position: absolute;
+    top: 400px;
+    left: 50px;
+}
+.appyozuv{
+    position: absolute;
+    top: 1500px;
+    left: 825px;
+    text-align: center;
+}
+.appyozuv1{
+    position: absolute;
+    top: 1550px;
+    left: 800px;
+    text-align: center;
+}
+.appyozuv2{
+    position: absolute;
+    top: 1600px;
+    left: 550px;
+    text-align: center;
+}
+.appyozuv3{
+    position: absolute;
+    top: 1625px;
+    left: 595px;
+    text-align: center;
+}
+.shopnow{
+    position: absolute;
+    top: 1715px;
+    left: 950px;
+    width: 70px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    padding: 5px 20px;
+}
+
+.rasm3{
+    position: absolute;
+    top: 1800px;
+    left: 50px;
+}
+.rasm4{
+    position: absolute;
+    top: 1800px;
+    left: 750px;
+}
+.rasm5{
+    position: absolute;
+    top: 1800px;
+    left: 1450px;
+}
+.rasm6{
+    position: absolute;
+    top: 2700px;
+    left: 50px;
+}
+.rasm7{
+    position: absolute;
+    top: 2700px;
+    left: 750px;
+}
+.rasm8{
+    position: absolute;
+    top: 2700px;
+    left: 1450px;
+}
+.rasm9{
+    position: absolute;
+    top: 2700px;
+    left: 50px;
+}
+.rasm10{
+    position: absolute;
+    top: 2700px;
+    left: 750px;
+}
+.rasm11{
+    position: absolute;
+    top: 2700px;
+    left: 1450px;
+}
